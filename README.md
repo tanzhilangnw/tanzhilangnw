@@ -1,6 +1,6 @@
 - 👋 Hi, I’m tanzhilangnw
 - 👀 I’m interested in uklele
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning go java os
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: just use qq(1157760794) is ok！
 
