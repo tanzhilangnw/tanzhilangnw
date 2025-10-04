@@ -1,6 +1,4 @@
 <div align="center">
-  
-# 👋 Hello, I'm tanzhilangnw!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding" alt="Typing SVG" />
 
@@ -65,5 +63,4 @@
 <div align="center">
 
 ⭐️ **Thanks for visiting!** ⭐️
-
 </div>
