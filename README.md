@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm tanzhilangnw!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Always+learning%2C+always+coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding" alt="Typing SVG" />
 
 </div>
 
@@ -10,49 +10,38 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="40%">
 
 ### 👨‍💻 About Me
-- 🎵 **Music Lover**: Passionate ukulele player 🎸
-- 💻 **Tech Enthusiast**: Go, Java, Operating Systems
-- 🌱 **Always Learning**: New technologies & skills
-- 🤝 **Open to Collaborate**: Exciting projects welcome
+- 💻 **Backend Developer**: Java, Go enthusiast
+- 🎵 **Music Lover**: Ukulele player 🎸
+- 🏃‍♂️ **Sports Fan**: Marathon, cycling, swimming
+- 😊 **Personality**: Outgoing & friendly
 - 📍 **Location**: China
 
 ### 💬 Contact Me
-[![QQ](https://img.shields.io/badge/QQ-1157760794-EB1923?style=flat-square&logo=tencent-qq&logoColor=white)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1157760794)
+![WeChat](https://img.shields.io/badge/WeChat-wxid__aivfb9auofx822-07C160?style=flat-square&logo=wechat&logoColor=white)
 
-*Feel free to reach out! 🚀*
+*Welcome to be friends! 🤝*
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="60%">
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Learning
 
 **Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Currently Learning**
+- 🔧 **Distributed Systems**: Redis, Microservices, Sentinel
+- 🤖 **AI Development**: Application development & integration
+- 📖 **Reading**: "Designing Data-Intensive Applications"
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-### 🎯 Current Focus
-- 🔍 Advanced Go programming
-- 📖 Operating Systems concepts  
-- 🎵 New ukulele techniques
-- 🛠️ Personal coding projects
-
-### 🌟 Fun Facts
-- 🎼 Ukulele player & music creator
-- 🌙 Night owl coder
-- ☕ Coffee-powered debugging
-- 🎮 Gaming enthusiast
 
 </td>
 </tr>
@@ -75,6 +64,6 @@
 
 <div align="center">
 
-⭐️ **Thanks for visiting my profile!** ⭐️
+⭐️ **Thanks for visiting!** ⭐️
 
 </div>
