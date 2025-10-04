@@ -1,11 +1,8 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Always+learning%2C+always+coding" alt="Typing SVG" />
-
 </div>
 
 ## 🚀 About Me
-
 - 💻 Backend Developer specializing in **Java & Go**
 - 🌱 Currently learning **Distributed Systems** and **AI Development**
 - 📚 Reading "Designing Data-Intensive Applications"
@@ -14,7 +11,6 @@
 - 📫 How to reach me: **wxid_aivrb9auofx822** (WeChat)
 
 ## 📊 GitHub Stats
-
 <div align="center">
 <table>
 <tr>
@@ -26,9 +22,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
 
 ⭐️ **Thanks for visiting!** ⭐️
 </div>
