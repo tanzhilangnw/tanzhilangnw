@@ -20,8 +20,6 @@
 ### 💬 Contact Me
 ![WeChat](https://img.shields.io/badge/WeChat-wxid__aivfb9auofx822-07C160?style=flat-square&logo=wechat&logoColor=white)
 
-*Welcome to be friends! 🤝*
-
 </td>
 <td valign="top" width="60%">
 
