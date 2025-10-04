@@ -4,44 +4,29 @@
 
 </div>
 
-## 🚀 About Me & Tech Stack
+## 🚀 About Me
 
-<table>
-<tr>
-<td valign="top" width="40%">
+- 💻 Backend Developer specializing in **Java & Go**
+- 🌱 Currently learning **Distributed Systems** and **AI Development**
+- 📚 Reading "Designing Data-Intensive Applications"
+- 🎸 Ukulele player & sports enthusiast (🏃‍♂️🚴‍♂️🏊‍♂️)
+- 💬 Ask me about **Java, Go, Microservices**
+- 📫 How to reach me: **wxid_aivrb9auofx822** (WeChat)
 
-### 👨‍💻 About Me
-- 💻 **Backend Developer**: Java, Go enthusiast
-- 🎵 **Music Lover**: Ukulele player 🎸
-- 🏃‍♂️ **Sports Fan**: Marathon, cycling, swimming
-- 😊 **Personality**: Outgoing & friendly
-- 📍 **Location**: China
+## 🛠️ Languages and Tools:
 
-### 💬 Contact Me
-![WeChat](https://img.shields.io/badge/WeChat-wxid__aivfb9auofx822-07C160?style=flat-square&logo=wechat&logoColor=white)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+</p>
 
-</td>
-<td valign="top" width="60%">
-
-### 🛠️ Tech Stack & Learning
-
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**Currently Learning**
-- 🔧 **Distributed Systems**: Redis, Microservices, Sentinel
-- 🤖 **AI Development**: Application development & integration
-- 📖 **Reading**: "Designing Data-Intensive Applications"
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
 ## 📊 GitHub Stats
 
